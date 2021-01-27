@@ -1,6 +1,6 @@
 module github.com/IBM/sql-query-go-sdk/example
 
-go 1.12
+go 1.15
 
 // remove this line to use the published version
 replace github.com/IBM/sql-query-go-sdk => ../

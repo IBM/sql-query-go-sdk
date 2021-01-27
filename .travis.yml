@@ -2,7 +2,7 @@ language: go
 
 dist: xenial
 
-go: 1.12.x
+go: 1.15.x
 
 notifications:
   email: true
