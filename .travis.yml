@@ -23,7 +23,9 @@ install:
 script:
   - make travis-ci
 
-# To enable semantic-release, uncomment these sections.
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+
 before_deploy:
  - pip install --user bump2version
  - npm install @semantic-release/changelog

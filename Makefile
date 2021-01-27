@@ -8,10 +8,10 @@ build:
 	go build ./...
 
 unittest:
-	go test `go list ./... | grep -v samples`
+	go test -race -coverprofile=coverage.txt -covermode=atomic `go list ./... | grep -v samples`
 
 alltest:
-	go test `go list ./... | grep -v samples` -v -tags=integration
+	go test -race -coverprofile=coverage.txt -covermode=atomic `go list ./... | grep -v samples` -v -tags=integration
 
 lint:
 	golangci-lint run
