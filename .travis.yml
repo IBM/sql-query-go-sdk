@@ -2,7 +2,7 @@ language: go
 
 dist: xenial
 
-go: 1.15.x
+go: 1.17.x
 
 notifications:
   email: true
@@ -14,7 +14,7 @@ env:
 before_install:
   - sudo apt-get update
   - sudo apt-get install python
-  - nvm install 12
+  - nvm install 14
   - npm install -g npm@6.x
 
 install:
