@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/IBM/sql-query-go-sdk.svg?branch=main)](https://travis-ci.com/IBM/sql-query-go-sdk)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-# IBM Cloud SqlQuery Go SDK Version 0.1.0
+# IBM Cloud SqlQuery Go SDK Version 0.1.1
 The IBM Cloud SqlQuery Go SDK allows developers to programmatically interact with [IBM Cloud SQL Query](https://cloud.ibm.com/apidocs/sql-query).
 
 Disclaimer: this SDK is being released initially as a **pre-release** version.
@@ -52,7 +52,7 @@ Service Name | Package name
 * Go version 1.15 or above.
 
 ## Installation
-The current version of this SDK: 0.1.0
+The current version of this SDK: 0.1.1
 
 There are a few different ways to download and install IBM Cloud SqlQuery Go SDK project for use by your
 Go application:
@@ -85,7 +85,7 @@ to your `Gopkg.toml` file.  Here is an example:
 ```
 [[constraint]]
   name = "github.com/IBM/sql-query-go-sdk"
-  version = "0.1.0"
+  version = "0.1.1"
 
 ```
 
