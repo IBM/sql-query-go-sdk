@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.0...v0.1.1) (2021-09-21)
+
+
+### Bug Fixes
+
+* version ([2c1fadf](https://github.com/IBM/sql-query-go-sdk/commit/2c1fadfb37c8ee3eeddec9cea621a75b0a3da137))
+
 # [0.1.0](https://github.com/IBM/sql-query-go-sdk/compare/v0.0.1...v0.1.0) (2021-01-27)
 
 
