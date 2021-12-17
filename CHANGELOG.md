@@ -1,3 +1,10 @@
+## [0.1.8](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.7...v0.1.8) (2021-12-17)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([7933aa9](https://github.com/IBM/sql-query-go-sdk/commit/7933aa9383443199402ba017d43f240aa4bd4237))
+
 ## [0.1.7](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.6...v0.1.7) (2021-12-17)
 
 
