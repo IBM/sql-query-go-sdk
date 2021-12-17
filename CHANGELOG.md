@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.4...v0.1.5) (2021-12-17)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/ibm/go-sdk-core/v4 to v4.10.0 ([21b8014](https://github.com/IBM/sql-query-go-sdk/commit/21b8014058acf6880b4c1ea1659b8b6c10a32b9a))
+
 ## [0.1.4](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.3...v0.1.4) (2021-12-17)
 
 
