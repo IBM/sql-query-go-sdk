@@ -17,7 +17,7 @@ func main() {
 
 	fmt.Println("Publishing Pact files to broker", os.Getenv("PACT_DIR"), os.Getenv("PACT_BROKER_URL"))
 	err := p.Publish(types.PublishRequest{
-		PactURLs:        []string{filepath.FromSlash(fmt.Sprintf("%s/goadminservice-gouserservice.json", os.Getenv("PACT_DIR")))},
+		PactURLs:        []string{filepath.FromSlash(fmt.Sprintf("%s/go-sdk-sql-query-sql-service-api.json", os.Getenv("PACT_DIR")))},
 		ConsumerVersion: common.Version,
 		Tags:            []string{"main"},
 		BrokerToken:     os.Getenv("PACT_TOKEN"),

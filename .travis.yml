@@ -26,6 +26,7 @@ install:
 
 script:
   - make travis-ci
+  - make publish
   
 before_deploy:
  - pip install --user bump2version
