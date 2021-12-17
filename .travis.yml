@@ -7,6 +7,10 @@ go: 1.17.x
 notifications:
   email: true
 
+branches:
+  only:
+    - main
+
 env:
   global:
     - GO111MODULE=on
@@ -15,7 +19,7 @@ before_install:
   - sudo apt-get update
   - sudo apt-get install python
   - nvm install 14
-  - npm install -g npm@6.x
+  - npm install -g npm@8.x
 
 install:
 - curl -sfL https://raw.githubusercontent.com/golangci/golangci-lint/master/install.sh| sh -s -- -b $(go env GOPATH)/bin v1.21.0
