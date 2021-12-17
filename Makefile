@@ -14,6 +14,7 @@ unittest:
 alltest: export PACT_TEST := true
 alltest:
 	go test -race -coverprofile=coverage.txt -covermode=atomic `go list ./... | grep -v samples` -v -tags=integration
+	ls -al pacts
 
 lint:
 	golangci-lint run
