@@ -1,4 +1,5 @@
-
+export PATH := $(PWD)/pact/bin:$(PATH)
+export PATH
 export PROVIDER_NAME = sql-service-api
 export CONSUMER_NAME = go-sdk-sql-query
 export PACT_DIR = $(PWD)/pacts
