@@ -16,6 +16,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.17.0
+	github.com/pact-foundation/pact-go v1.6.6
 	github.com/stretchr/testify v1.7.0
 	go.mongodb.org/mongo-driver v1.8.1 // indirect
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f // indirect
