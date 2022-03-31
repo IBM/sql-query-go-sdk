@@ -1,3 +1,10 @@
+## [0.1.11](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.10...v0.1.11) (2022-03-31)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/onsi/gomega to v1.19.0 ([72d79c6](https://github.com/IBM/sql-query-go-sdk/commit/72d79c61d5d79fe6097095c575ab33b1131826cc))
+
 ## [0.1.10](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.9...v0.1.10) (2022-03-31)
 
 
