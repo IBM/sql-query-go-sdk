@@ -23,6 +23,8 @@ github.com/go-openapi/errors v0.20.1/go.mod h1:cM//ZKUKyO06HSwqAelJ5NsEMMcpa6VpX
 github.com/go-openapi/strfmt v0.19.10/go.mod h1:qBBipho+3EoIqn6YDI+4RnQEtj6jT/IdKm+PAlXxSUc=
 github.com/go-openapi/strfmt v0.21.1 h1:G6s2t5V5kGCHLVbSdZ/6lI8Wm4OzoPFkc3/cjAsKQrM=
 github.com/go-openapi/strfmt v0.21.1/go.mod h1:I/XVKeLc5+MM5oPNN7P6urMOpuLXEcNrCX/rPGuWb0k=
+github.com/go-openapi/strfmt v0.21.2 h1:5NDNgadiX1Vhemth/TH4gCGopWSTdDjxl60H3B7f+os=
+github.com/go-openapi/strfmt v0.21.2/go.mod h1:I/XVKeLc5+MM5oPNN7P6urMOpuLXEcNrCX/rPGuWb0k=
 github.com/go-playground/locales v0.13.0/go.mod h1:taPMhCMXrRLJO55olJkUXHZBHCxTMfnGwq/HNwmWNS8=
 github.com/go-playground/locales v0.14.0 h1:u50s323jtVGugKlcYeyzC0etD1HifMjqmJqb8WugfUU=
 github.com/go-playground/locales v0.14.0/go.mod h1:sawfccIbzZTqEDETgFXqTho0QybSa7l++s0DH+LDiLs=
