@@ -1,3 +1,10 @@
+## [0.1.10](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.9...v0.1.10) (2022-03-31)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/go-openapi/strfmt to v0.21.2 ([ab8246c](https://github.com/IBM/sql-query-go-sdk/commit/ab8246cbbf9f26ab7e1e4737b8b7ea8e128b3bc3))
+
 ## [0.1.9](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.8...v0.1.9) (2022-03-31)
 
 
