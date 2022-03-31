@@ -1,3 +1,10 @@
+## [0.1.9](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.8...v0.1.9) (2022-03-31)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/stretchr/testify to v1.7.1 ([a482f26](https://github.com/IBM/sql-query-go-sdk/commit/a482f26a3f0af76572efe19e1d78168da40eab22))
+
 ## [0.1.8](https://github.com/IBM/sql-query-go-sdk/compare/v0.1.7...v0.1.8) (2021-12-17)
 
 
