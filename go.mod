@@ -7,7 +7,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-openapi/errors v0.20.1 // indirect
-	github.com/go-openapi/strfmt v0.21.1
+	github.com/go-openapi/strfmt v0.21.2
 	github.com/go-playground/universal-translator v0.18.0 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
