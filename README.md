@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.com/IBM/sql-query-go-sdk.svg?branch=main)](https://travis-ci.com/IBM/sql-query-go-sdk)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-# IBM Cloud SqlQuery Go SDK Version 0.1.11
-The IBM Cloud SqlQuery Go SDK allows developers to programmatically interact with [IBM Cloud SQL Query](https://cloud.ibm.com/apidocs/sql-query).
+# IBM Cloud Data Engine Go SDK Version 0.1.11
+The IBM Cloud Data Engine Go SDK allows developers to programmatically interact with [IBM Cloud Data Engine](https://cloud.ibm.com/apidocs/sql-query-v2).
 
 Disclaimer: this SDK is being released initially as a **pre-release** version.
 Changes might occur which impact applications that use this SDK.
@@ -37,11 +37,11 @@ Changes might occur which impact applications that use this SDK.
 
 ## Overview
 
-The IBM Cloud SqlQuery Go SDK allows developers to programmatically interact with the following IBM Cloud services:
+The IBM Cloud Data Engine Go SDK allows developers to programmatically interact with the following IBM Cloud services:
 
 Service Name | Package name 
 --- | --- 
-[SqlQuery Service](https://cloud.ibm.com/apidocs/sql-query) | sqlv2
+[Data Engine Service](https://cloud.ibm.com/apidocs/sql-query-v2) | sqlv2
 
 ## Prerequisites
 
@@ -54,7 +54,7 @@ Service Name | Package name
 ## Installation
 The current version of this SDK: 0.1.11
 
-There are a few different ways to download and install IBM Cloud SqlQuery Go SDK project for use by your
+There are a few different ways to download and install IBM Cloud Data Engine Go SDK project for use by your
 Go application:
 
 #### `go get` command  
