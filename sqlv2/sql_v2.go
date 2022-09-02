@@ -29,9 +29,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/IBM/go-sdk-core/v4/core"
-	"github.com/go-openapi/strfmt"
+	"github.com/IBM/go-sdk-core/v5/core"
 	common "github.com/IBM/sql-query-go-sdk/common"
+	"github.com/go-openapi/strfmt"
 )
 
 // SqlV2 : SQL Query is a stateless service for analyzing rectangular data stored in IBM Cloud Object Store using ANSI
