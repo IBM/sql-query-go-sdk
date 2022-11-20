@@ -1,6 +1,6 @@
 module github.com/IBM/sql-query-go-sdk
 
-go 1.15
+go 1.19
 
 require (
 	github.com/IBM/go-sdk-core/v4 v4.10.0
