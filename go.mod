@@ -9,6 +9,6 @@ require (
 	github.com/go-openapi/strfmt v0.21.3
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/gomega v1.19.0
+	github.com/onsi/gomega v1.32.0
 	github.com/stretchr/testify v1.8.0
 )
